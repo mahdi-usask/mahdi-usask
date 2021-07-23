@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Machine learning applications on Electrical power system/ system optimization 
 - 📫 How to reach me? Email me at mmm874@usask.ca 
 - some publications- https://ieeexplore.ieee.org/document/9364424
+- google scholar -https://scholar.google.com/citations?user=qRhjwwkAAAAJ&hl=en
 
 <!---
 mahdi-usask/mahdi-usask is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
